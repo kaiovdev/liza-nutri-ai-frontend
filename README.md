@@ -54,12 +54,7 @@ cd liza-ai
 ### **2. Instale as dependências**
 
 ```bash
-npm install next react react-dom typescript tailwindcss postcss autoprefixer
-npm install gsap @gsap/react
-npm install react-hook-form zod @hookform/resolvers
-npm install @radix-ui/react-label @radix-ui/react-select @radix-ui/react-scroll-area @radix-ui/react-slot
-npm install lucide-react clsx class-variance-authority tailwind-merge
-npm install react-markdown
+npm install
 ```
 
 Ou, se preferir:
